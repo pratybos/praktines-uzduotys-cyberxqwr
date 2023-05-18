@@ -1,6 +1,6 @@
-**Emilis Borusas, PI22B
-Vaidmenų žaidimas "Lost RPG"**
-Žaidimo taisyklės ir detalus aprašas:
+**Emilis Borusas, PI22B<br>
+Vaidmenų žaidimas "Lost RPG"**<br>
+Žaidimo taisyklės ir detalus aprašas:<br>
 
 - Žaidėjas, pradėdamas žaisti, susigalvoja norimą charakterio vardą bei žaidimo sudėtingumą.
 - Žaidimo tikslas - pasiekti kuo įmanomą aukštesnį lygį bei turėti aukštas charakterio statistikas (jėgą, gynybą, gyvybes).
