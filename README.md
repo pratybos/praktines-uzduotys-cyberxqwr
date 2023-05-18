@@ -2,8 +2,8 @@
 Vaidmenų žaidimas "Lost RPG"**<br>
 Žaidimo taisyklės ir detalus aprašas:<br>
 
-- Žaidėjas, pradėdamas žaisti, susigalvoja norimą charakterio vardą bei žaidimo sudėtingumą.
-- Žaidimo tikslas - pasiekti kuo įmanomą aukštesnį lygį bei turėti aukštas charakterio statistikas (jėgą, gynybą, gyvybes).
+- Žaidėjas, pradėdamas žaisti, susigalvoja norimą personažo vardą bei žaidimo sudėtingumą.
+- Žaidimo tikslas - pasiekti kuo įmanomą aukštesnį lygį bei turėti aukštas personažo statistikas (jėgą, gynybą, gyvybes).
 - Norėdamas tai pasiekti, žaidėjas privalo keliauti per žemėlapį, tikrinti "Lost" (liet. prarastas) taškus, kaupti auksą bei nusipirkti kuo įmantresnius daiktus, norint sustiprėti.
 - Kiekvienas taškas yra nežinomas, po juo gali slėptis arba priešas, arba skrynia.
 - Skrynių sąrašas:
